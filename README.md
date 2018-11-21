@@ -7,9 +7,7 @@ Creating BookMark with Pure JavaScript @bradtraversy
 
 # 3. get form values
 3-1) can't get value
-
 3-2) add .value
-
 3-3)get site URL value
 
 # 4. create Object : Save siteName, siteUrl in localStorage
